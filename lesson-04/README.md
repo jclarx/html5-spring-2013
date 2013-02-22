@@ -11,6 +11,7 @@ http://joanclark.net/html5/EaselJS_tuts/_1/index.html
 http://joanclark.net/html5/EaselJS_tuts/_2/index.html
 http://joanclark.net/html5/EaselJS_tuts/_3/index.html
 http://joanclark.net/html5/EaselJS_tuts/_4/index.html
+http://joanclark.net/html5/EaselJS_tuts/_4/index_a.html
 http://joanclark.net/html5/EaselJS_tuts/_5/index.html
 http://joanclark.net/html5/EaselJS_tuts/_6/index.html
 http://joanclark.net/html5/EaselJS_tuts/_7/index.html
