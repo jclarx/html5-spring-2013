@@ -1,0 +1,99 @@
+#menu4 {
+	width: 100%;
+	display: block;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	background-color: #F2EDD0;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	height: 60px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-topright: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-box-shadow: 0px 5px 5px #000;
+	-webkit-box-shadow: 0px 5px 5px #000;
+	box-shadow: 0px 5px 5px #000;
+	z-index: 1;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 4px;
+	margin-left: 0px;
+}
+#menu4 ul {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	letter-spacing: 0em;
+	border-top:5px dotted #000000;
+	/* [disabled]border-bottom:5px dotted #000000; */
+	float:left;
+	clear:both;
+	margin:10px;
+}
+
+/* BeginOAWidget_Instance_2141545: #OAWidget */
+
+#menu4 ul {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	letter-spacing: 0em;
+	border-top:5px dotted #000000;
+	/* [disabled]border-bottom:5px dotted #000000; */
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+#menu4 ul li{
+	float:left;
+	list-style-type: none;
+}
+#menu4 ul li a{
+	display:block;
+	text-decoration:none;
+	/* [disabled]padding:10px 10px 5px 10px; */
+	color:#0046B3;
+	width:170px;
+}
+#menu4 ul li a{
+	color: #262523;
+	width: 210px;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	margin: 0px;
+}
+#menu4 ul li a span{
+    display:block;
+}
+#menu4 ul li a span.title{
+
+}
+#menu4 ul li a:hover span.title{
+    color:#0000cc;
+}
+#menu4 ul li a span.text{
+    padding:0px 5px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: .75em;
+    font-style: italic;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1.6em;
+    color:#cc3333;
+    visibility:hidden;
+}
+#menu4 ul li a span.text{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: .9em;
+	color:#cc3333;
+}
+		
+/* EndOAWidget_Instance_2141545 */
+#menu4 ul li a:hover span.text{
+    visibility:visible;
+}

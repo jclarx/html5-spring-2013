@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+/* SpryMasterDetail.css */
+
+/* Copyright (c) 2007. Adobe Systems Incorporated. All rights reserved. */
+
+/* This is the selector for the main Master/Detail structure container. 
+ *
+ * If you want to constrain the width of the Master/Detail structure, set a width on
+ * the Master/Detail container. By default, our structure expands horizontally to fill
+ * up available space.
+ */
+.MasterDetail
+{
+	margin: 2px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 100%;
+}
+
+/* This is the selector for the Master Container element which houses all the MasterColumn
+ * classes. By default the Master column occupy about 35% from the width of the 
+ * entire structure. 
+*/
+.MasterDetail .MasterContainer
+{
+	background-color: #F2EDD0;
+	border: 1px solid #fff;
+	width: 30%;
+	float: left;
+	overflow: hidden;
+}
+
+/* This is the selector for a Master Column element which holds the actual data for 
+ * a master column.
+*/
+.MasterDetail .MasterColumn
+{
+	font-size: 100%;
+	background-color: #F2EDD0;
+	padding:5px;
+	cursor:pointer;
+	text-align: center;
+}
+
+/* This is the selector for a highlighted Master Column element.
+*/
+.MasterDetail .MasterColumnHover
+{
+	background-color: #EAEAEA;
+}
+
+/* This is the selector for a selected Master Column element.
+*/
+.MasterDetail .MasterColumnSelected
+{
+	background-color:#848484;
+	color: white;
+}
+
+/* This is the selector for the Detail Container element which houses all the DetailColumn
+ * classes. By default the Detail column occupy about 60% from the width of the 
+ * entire structure. 
+*/
+.MasterDetail .DetailContainer
+{
+	/* [disabled]border: 1px solid gray; */
+	margin:0;
+	width: 415px;
+	float: right;
+	overflow: visible;
+	position: fixed;
+	top: 243px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	margin-left: 280px;
+}
+
+/* This is the selector for a Detail Column element which holds the actual data for 
+ * a detail column.
+*/
+.MasterDetail .DetailColumn
+{
+	margin-bottom: 1px;
+}

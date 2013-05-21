@@ -1,0 +1,58 @@
+/*
+	 CSS-Tricks Example
+	 by Chris Coyier
+	 http://css-tricks.com
+*/
+
+.button {
+	border-top: 1px solid #278A73;
+	background: #278A73;
+	background: rgb(128,221,207); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(128,221,207,1) 0%, rgba(39,138,115,1) 87%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(128,221,207,1)), color-stop(87%,rgba(39,138,115,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(128,221,207,1) 0%,rgba(39,138,115,1) 87%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(128,221,207,1) 0%,rgba(39,138,115,1) 87%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(128,221,207,1) 0%,rgba(39,138,115,1) 87%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(128,221,207,1) 0%,rgba(39,138,115,1) 87%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ddcf', endColorstr='#278a73',GradientType=0 ); /* IE6-9 */
+
+	padding: 5px 10px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	/* overboard shadows for Opera (and why spec version listed first) */
+	box-shadow: rgba(0,0,0,1) 0 1px 0, rgba(0,0,0,90) 0 0 10px, rgba(0,0,0,90) 0 0 20px, rgba(0,0,0,90) 0 0 30px;
+	-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	text-shadow: rgba(0,0,0,.4) 0 1px 0;
+	color: white;
+	font-size: 14px;
+	font-family: Georgia, serif;
+	text-decoration: none;
+	vertical-align: middle;
+}
+.button:hover {
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #ccc;
+}
+.button:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+}
+.thumbnail .read-more { 
+	position: absolute; 
+	bottom: 0; left: 0;
+	width: 100%; 
+	text-align: center; 
+	margin: 0; padding: 10px 0; 
+	
+	/* "transparent" only works here because == rgba(0,0,0,0) */ 
+	  background: -moz-linear-gradient(top,  rgba(0,0,0,0) 28%, rgba(150,150,150,1) 100%); /* FF3.6+ */
+	  background: -webkit-gradient(linear, left top, left bottom, color-stop(28%,rgba(0,0,0,0)), color-stop(100%,rgba(150,150,150,1))); /* Chrome,Safari4+ */
+	  background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 28%,rgba(150,150,150,1) 100%); /* Chrome10+,Safari5.1+ */
+	  background: -o-linear-gradient(top,  rgba(0,0,0,0) 28%,rgba(150,150,150,1) 100%); /* Opera 11.10+ */
+	  background: -ms-linear-gradient(top,  rgba(0,0,0,0) 28%,rgba(150,150,150,1) 100%); /* IE10+ */
+	  background: linear-gradient(to bottom,  rgba(0,0,0,0) 28%,rgba(150,150,150,1) 100%); /* W3C */
+	  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#969696',GradientType=0 ); /* IE6-9 */
+}

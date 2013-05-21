@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decal_catalog>
+	<item id="1">
+		<number>680A</number>
+		<desc>Tribal Fish</desc>
+		<size>5" x 6"</size>
+		<color>white</color>
+		<price>$7</price>
+		<thumb>thumbs/0002.gif</thumb>
+		<image>decal-img/0002.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="2">
+		<number>677A</number>
+		<desc>Calvin ATV</desc>
+		<size>5" x 5"</size>
+		<color>black</color>
+		<price>$7</price>
+		<thumb>thumbs/0003.gif</thumb>
+		<image>decal-img/0003.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+
+	<item id="6">
+		<number>678A</number>
+		<desc>Mildred ATV</desc>
+		<size>5" x 5"</size>
+		<color>black</color>
+		<price>$7</price>
+		<thumb>thumbs/0006.gif</thumb>
+		<image>decal-img/0006.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="7">
+		<number>31B</number>
+		<desc>Flag</desc>
+		<size>22" x 4"</size>
+		<color>red white and blue</color>
+		<price>$12 </price>
+		<thumb>thumbs/0007.gif</thumb>
+		<image>decal-img/0007.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="8">
+		<number>57B</number>
+		<desc>Tribal Bear</desc>
+		<size>9" x 7"</size>
+		<color>white</color>
+		<price>$12 </price>
+		<thumb>thumbs/0008.gif</thumb>
+		<image>decal-img/0008.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="10">
+		<number>223A</number>
+		<desc>Lab with Duck</desc>
+		<size>6" x 5"</size>
+		<color>white</color>
+		<price>$7</price>
+		<thumb>thumbs/0010.gif</thumb>
+		<image>decal-img/0010.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+		<cart>Add to cart</cart>
+	<item id="3">
+		<number>93A</number>
+		<desc>Super Toyota</desc>
+		<size>6" x 4"</size>
+		<color>white</color>
+		<price>$7</price>
+		<thumb>thumbs/0001.gif</thumb>
+		<image>decal-img/0001.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="11">
+		<number>26B</number>
+		<desc>Cat in the Moon</desc>
+		<size>9" x 5"</size>
+		<color>white</color>
+		<price>$12 </price>
+		<thumb>thumbs/0011.gif</thumb>
+		<image>decal-img/0011.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="12">
+		<number>14B</number>
+		<desc>Rowdy Redhead</desc>
+		<size>22" x 4"</size>
+		<color>white</color>
+		<price>$12 </price>
+		<thumb>thumbs/0012.gif</thumb>
+		<image>decal-img/0012.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="13">
+		<number>14B</number>
+		<desc>Rowdy Redhead</desc>
+		<size>22" x 4"</size>
+		<color>red</color>
+		<price>$12 </price>
+		<thumb>thumbs/0013.gif</thumb>
+		<image>decal-img/0013.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="14">
+		<number>19B</number>
+		<desc>Faith Lines</desc>
+		<size>22" x 4"</size>
+		<color>white</color>
+		<price>$12 </price>
+		<thumb>thumbs/0014.gif</thumb>
+		<image>decal-img/0014.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="15">
+		<number>22B</number>
+		<desc>Lion Flames</desc>
+		<size>22" x 4"</size>
+		<color>white</color>
+		<price>$12 </price>
+		<thumb>thumbs/0015.gif</thumb>
+		<image>decal-img/0015.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="16">
+		<number>23B</number>
+		<desc>Country Boy Can</desc>
+		<size>22" x 4"</size>
+		<color>white</color>
+		<price>$12 </price>
+		<thumb>thumbs/0016.gif</thumb>
+		<image>decal-img/0016.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="17">
+		<number>667A</number>
+		<desc>Hello Kitty</desc>
+		<size>4" x 4"</size>
+		<color>white</color>
+		<price>$7</price>
+		<thumb>thumbs/0017.gif</thumb>
+		<image>decal-img/0017.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+	<item id="18">
+		<number>667A</number>
+		<desc>Hello Kitty</desc>
+		<size>4" x 4"</size>
+		<color>pink</color>
+		<price>$7</price>
+		<thumb>thumbs/0018.gif</thumb>
+		<image>decal-img/0018.jpg</image>
+		<cart>Add to cart</cart>
+	</item>
+</decal_catalog>
